@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    /* background:aqua , url(interior 3.jpg); */
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}

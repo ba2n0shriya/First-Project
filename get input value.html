@@ -1,0 +1,19 @@
+<<!DOCTYPE html>
+<html>
+<head>
+    <title>How to Get Input Value with JS</title>
+</head>
+<body>
+    <input id="txt" oninput="getValue()"><br>
+    <span id="result"></span>
+    <script>
+        function getValue() {
+            var txt = document.getElementById("txt");
+            var txtValue = txt.value;
+
+            var result = document.getElementById("result");
+            result.innerText = txtValue;
+        }
+    </script>
+</body>
+</html>

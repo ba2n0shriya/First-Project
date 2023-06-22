@@ -1,0 +1,120 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background: radial-gradient(#fff,#ffd6d6);
+}
+.navbar{
+    display: flex;
+    background: radial-gradient(#fff,#ffd6d6);
+    align-items: center;
+    padding: 20px;
+}
+.nav{
+    flex: 1;
+    text-align: right;
+}
+.nav ul {
+    display: inline-block; 
+    list-style-type: none;
+}
+.nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+.a{
+    text-decoration: none;
+    color: #555;
+}
+
+.row h1{
+    text-align: center;
+    padding: left 10px;;
+} 
+    
+ p{
+    color: #555;
+    text-align: left;
+    padding: 20px 80px 20px;
+}
+.container{
+    max-width: 1300px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25p;  
+}
+.col-2 {
+        text-align: right;
+        padding-left: 400px;
+    }
+
+.image-container img {
+        float: right;
+
+}
+.image-container img {
+    position:absolute;
+    top: 0;
+    right: 0;
+
+}
+.row{
+    text-align: left;
+}
+.col-2{
+    
+    margin-right: 20px;
+     
+}
+.btn{
+    display: inline-block;
+    background: #ff523b;
+    color: #fff;
+    padding: 8px 30px;
+    margin-left: 80px;
+    border-radius: 30px;
+    padding-left: 20px;
+    transition: backgrond 0.5s;
+    
+}
+.btn:hover{
+    background: #563434;
+} */
+/* .btn{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+} */
+
+/* .header{
+    background: radial-gradient(#fff,#ffd6d6);
+    display: flex;
+}
+.categories {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        text-align: center;
+      }
+       */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}       
+.banner {
+    background: url("images/interior 3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+  }
+
+
+
+
+ 
