@@ -1,0 +1,13 @@
+.container{
+    background-color: aqua;
+    text-align: center;
+    transform: initial;
+}
+button{
+    background-color:rgb(98, 11, 192);
+    color: rgb(222, 226, 229);
+    
+}
+button:hover{
+    color: bisque;
+}
